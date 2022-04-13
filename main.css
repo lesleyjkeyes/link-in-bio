@@ -1,3 +1,33 @@
 body{
-  background-color: lightcoral;
+  background-color: teal
+}
+
+.all-buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.my-buttons {
+  background-color: pink;
+  border: pink;
+  size: 80px;
+  width: 400px;
+}
+
+.lesley-photo{
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  border-radius: 50%;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+  margin-bottom: 20px;
 }
